@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gorest-api-test-automation-restassured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="2.188">
+  <properties />
+  
+            <testcase name="testTearDown" time="0.0" classname="pl.globallogic.gorest.user.schemavalidation.JsonSchemaValidationTest">
+          <skipped />
+    </testcase>
+            <testcase name="responseShouldBeValidAgainstSchema" time="0.0" classname="pl.globallogic.gorest.user.schemavalidation.JsonSchemaValidationTest">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
